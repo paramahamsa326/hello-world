@@ -4,5 +4,7 @@ public class HelloJava {
 		System.out.println("Hello World \nHello Java");
 		
 		System.out.println("Hello World \n Now Hello Java");
+		
+		System.out.println("Hello World \n Now from Jenkins Hello Java");
 	}
 }
